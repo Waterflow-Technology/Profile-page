@@ -15,7 +15,7 @@ The project includes a folder named `profile`, which consists of the main page c
 
 Here’s a screenshot of the application:
 
-![Screenshot](assets/client-profile.png)
+<img width="947" alt="client-profile" src="https://github.com/user-attachments/assets/4e69281a-f647-4dcf-aa15-10625657cdc4">
 
 ## Technologies Used
 
